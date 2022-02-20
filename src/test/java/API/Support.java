@@ -1,3 +1,5 @@
+package API;
+
 public class Support {
 
     private String url;
